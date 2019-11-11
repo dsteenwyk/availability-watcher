@@ -1,11 +1,9 @@
 ﻿https://devapi.buildersmutual.com/api/EventLog/EventLog.svc?wsdl
 https://devapi.buildersmutual.com/api/ExternalCore
-https://devapi.buildersmutual.com/api/projects/FNOLBusinessLogic
 https://devapi.buildersmutual.com/api/ServiceBusMessages
 https://devapi.buildersmutual.com/api/WebSecurity
 https://api.buildersmutual.com/api/EventLog/EventLog.svc?wsdl
 https://api.buildersmutual.com/api/ExternalCore
-https://api.buildersmutual.com/api/projects/FNOLBusinessLogic
 https://api.buildersmutual.com/api/ServiceBusMessages
 https://api.buildersmutual.com/api/WebSecurity
 https://api.buildersmutual.com/api/projects/sfdc/IntegrationLogMessages/Messagehandler.asmx?wsdl
